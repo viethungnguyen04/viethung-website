@@ -1,0 +1,41 @@
+.story-one{
+    margin-top:130px;
+    width:380px;
+    height: 380px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    cursor:pointer;
+   
+   
+}
+.thumb{
+    position: absolute;
+    left:-1px;
+    top:0;
+    right: 0;
+    width: 377px;
+    height: 250px;
+}
+.blog-content-title{
+    font-weight: bold;
+    padding-top: 250px;
+    text-align: left;
+    font-size: 16px;
+    margin-bottom: 0;
+}
+.blog-content-untertitle{
+    margin-top:5px;
+    text-align: left;
+    line-height:20px;
+}
+.blog-dong1{
+    display: flex;
+    flex: row;
+    column-gap: 15px;
+    justify-content: center;
+}
+.blog-main{
+    padding-left: 45px;
+    padding-right: 30px;
+}

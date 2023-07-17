@@ -1,0 +1,41 @@
+.blog-content-story1{
+    margin-left:250px;
+    position: relative;
+}
+.thumb-story1{
+    height:300px;
+    width:80%;
+    left:100px;
+    position: absolute;
+    object-position: cover;
+    object-fit: cover;
+}
+.blog-header-story1{
+
+    padding-top:330px;
+    text-align: center;
+}
+.blog-text-story1{
+    background-color: (249, 237, 237);
+    font-size: 24px;
+    color:black;
+    width: 90%;
+    text-align: left;
+    position: absolute;
+    left:80px;
+    line-height: 1.6;
+    
+}
+.para{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.story1-message{
+    width: 20%;
+    height: 20%;   
+}
+.message{
+    display: flex;
+    justify-content: center;
+}

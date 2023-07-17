@@ -1,0 +1,78 @@
+
+.blog-header{
+    position:fixed;
+    width:300px;
+    height:100%;
+    border-width: 1px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+    top:0px;
+    left:0px;
+    right:0;
+    background-color:rgb(255, 208, 0);
+    color: #143d59;
+}
+.title{
+    height: 80px;
+    position: absolute;
+    text-align: center;
+    margin-top:150px;
+}
+.blog-title{
+    font-size: 45px;
+    margin-bottom: 0px;
+    margin-top:0;
+ 
+}
+.blog-title-info{
+    height:50px;
+    font-size: 18px;
+    font-style: italic;
+    margin-top:20px;
+}
+.right-section{
+    height:80px;
+    position: absolute;
+    right:30px;
+    text-align: center;
+    top:20px;
+    display: flex;
+    
+}
+.return-story, .return-story{
+
+    margin-right:30px;
+}
+.button-story1{
+    border-width: 1px;
+    padding-left: 10px;  
+    padding-right: 10px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    background-color: whitesmoke;
+    color:#143d59;
+    border-radius: 70px;
+    font-weight: bold;
+    text-align: center;
+    cursor:pointer;
+}
+.button-story2{
+    border-width: 1px;
+    padding-left: 10px;  
+    padding-right: 10px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    background-color: whitesmoke;
+    color:#143d59;
+    border-radius: 70px;
+    font-weight: bold;
+    text-align: center;
+    cursor:pointer;
+}
+.button-story1:hover{
+    text-decoration: underline;
+}
+.button-story2:hover{
+    text-decoration: underline;   
+}
+
+
